@@ -1,0 +1,6 @@
+framework module Pods_FileViewer {
+  umbrella header "Pods-FileViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
